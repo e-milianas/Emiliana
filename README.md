@@ -8,6 +8,6 @@ Vamos juntos?! :rocket:
 
 <hr/>
 
-<center>:link:[Linkedin](https://www.linkedin.com/in/emilianadasilva/)</center>
+:link:[Linkedin](https://www.linkedin.com/in/emilianadasilva/)
 
-<center>:hatched_chick:[Twitter](https://twitter.com/e_milianas)</center>
+:hatched_chick:[Twitter](https://twitter.com/e_milianas)
