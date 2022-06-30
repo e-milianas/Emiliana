@@ -10,7 +10,7 @@ Vamos juntos?! :rocket:
 
 Hello, I'm Emiliana! :smile:
 
-I'm Licenciate in Portuguese Language and Literature and Specialized in Management Development and People Management, I work like as Tech Writer a few years ago.
+I'm Licenciate in Portuguese Language and Literature and Specialized in Management Development and People Management, I work as Tech Writer a few years ago.
 
 I joined Github to learn and contribute my experience in the various forms of documentation. 
 
