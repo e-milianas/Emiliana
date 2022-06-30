@@ -8,12 +8,6 @@ Vamos juntos?! :rocket:
 
 <hr/>
 
-:link:[Linkedin](https://www.linkedin.com/in/emilianadasilva/)
-
-:hatched_chick:[Twitter](https://twitter.com/e_milianas)
-
-<hr/>
-
 Hello, I'm Emiliana! :smile:
 
 I'm Licenciate in Portuguese Language and Literature and Specialized in Management Development and People Management, I work like as Tech Writer a few years ago.
@@ -21,3 +15,9 @@ I'm Licenciate in Portuguese Language and Literature and Specialized in Manageme
 I joined Github to learn and contribute my experience in the various forms of documentation. 
 
 Let's go togheter?! :rocket:
+
+<hr/>
+
+:link:[Linkedin](https://www.linkedin.com/in/emilianadasilva/)
+
+:hatched_chick:[Twitter](https://twitter.com/e_milianas)
